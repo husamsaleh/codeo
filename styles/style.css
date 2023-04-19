@@ -1,0 +1,35 @@
+.copy-button {
+    background-color: #ffffff !important;
+    border: none;
+    color: rgb(0, 0, 0);
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 29px;
+    font-weight: bold;
+    padding: 10px;
+    
+    cursor: pointer;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    position: absolute;
+    right: 0;
+
+  }
+  /* .output-block{
+    position: relative;
+  }  */
+  
+  .copy-button:hover {
+    background-color: #dddddd;
+  }
+  .copy-button svg {
+    width: 24px;
+    height: 24px;
+  }
+  .output-block{
+    position: relative;
+  }
+
+  
